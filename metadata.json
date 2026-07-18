@@ -1,0 +1,10 @@
+{
+  "name": "CalTrack",
+  "description": "A full-stack calorie and fitness tracking web app featuring AI-powered food photo analysis, activity logging with MET calculations, history trends, and biometric onboarding.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
